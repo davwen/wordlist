@@ -1,1 +1,29 @@
-{"words":[{"word": "bil","gender": "en","plural": "bilar"},{"word": "hus","gender": "ett","plural": "hus"}, {"word": "bord","gender": "ett","plural": "bord"}]}
+{
+  "words": [
+    {
+      "word": "bil",
+      "gender": "en",
+      "plural": "bilar"
+    },
+    {
+      "word": "hus",
+      "gender": "ett",
+      "plural": "hus"
+    },
+    {
+      "word": "bord",
+      "gender": "ett",
+      "plural": "bord"
+    },
+    {
+      "word": "bord",
+      "gender": "ett",
+      "plural": "bord"
+    },
+    {
+      "word": "katt",
+      "gender": "en",
+      "plural": "katter"
+    }
+  ]
+}
